@@ -1,0 +1,5 @@
+{
+    "name": "sly",
+    "version": "v1.6.2",
+    "main": "dist/sly.js"
+}
